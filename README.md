@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/JAVA-ED8B00%20)
-[![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=voddepellinihal-ally)](https://github.com/anuraghazra/github-readme-stats)
+[![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=voddepellinihal-ally)
 👋 Hi there, I'm Nihal!
 
 💻 Computer Science student & Full Stack Developer
