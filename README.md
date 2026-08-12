@@ -1,98 +1,122 @@
-![Static Badge](https://img.shields.io/badge/JAVA-ED8B00%20)
-[![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=voddepellinihal-ally)
-👋 Hi there, I'm Nihal!
+# 👋 Hi there, I'm Nihal!
 
-💻 Computer Science student & Full Stack Developer
+### 💻 Computer Science Student & Full Stack Developer
 
-🤖 AI enthusiast passionate about building practical, real-world software
+🤖 AI enthusiast passionate about building practical, real-world software.
 
-🌱 Currently working with React, TypeScript, FastAPI, Spring Boot, Python, and Java
+🌱 Currently working with **React, TypeScript, FastAPI, Spring Boot, Python, and Java**.
 
-💡 Built five end-to-end software prototypes across AI, geospatial analytics, civic technology, and sustainability
+💡 Built five end-to-end software prototypes across **AI, geospatial analytics, civic technology, and sustainability**.
 
-🛠️ Skills & Tools
+---
 
-Programming : -
-Java
-Python
-JavaScript
-TypeScript
-HTML5
-CSS3
-SQL (Basic)
+## 🛠️ Skills & Tools
 
-Frontend :-
-React
-Next.js
-Vite
-Tailwind CSS
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge)
 
-Backend & APIs :-
-FastAPI
-Spring Boot
-Node.js
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-GIS & Visualization :-
-GeoPandas
-Leaflet
-Recharts
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Developer Tools :-
-Git
-GitHub
-VS Code
-ngrok
-Pydantic
+### 🗺️ GIS & Visualization
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
 
-AI Developer Tools :-
-ChatGPT
-Gemini
-DeepSeek
-Perplexity
-OpenCode
+### 🔧 Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🚀 Featured Projects
+---
 
-🌍 GeoPilot AI
+## 🚀 Featured Projects
 
-AI-powered geospatial disaster response platform built with React, TypeScript, FastAPI, GeoPandas, and Leaflet. Includes GIS dashboards, route analysis, and REST APIs for emergency planning.
+### 🌍 GeoPilot AI
 
-🏟️ Stadium Copilot
+AI-powered geospatial disaster response platform built with:
 
-Multilingual GenAI-powered FIFA World Cup assistant using Next.js, FastAPI, Gemini AI, and RAG, with contextual navigation, accessibility support, and venue guidance.
+**React • TypeScript • FastAPI • GeoPandas • Leaflet**
 
-🌱 CarbonBuddy
+Includes GIS dashboards, route analysis, and REST APIs for emergency planning.
 
-Full-stack carbon footprint tracking platform using React and Spring Boot with JWT authentication, analytics dashboards, CO₂ insights, and sustainability recommendations.
+### 🏟️ Stadium Copilot
 
-🏛️ FixMyNation
+Multilingual GenAI-powered FIFA World Cup assistant built with:
 
-Civic grievance platform built with React, TypeScript, Tailwind CSS, FastAPI, and Node.js for reporting, tracking, and managing public infrastructure issues.
+**Next.js • FastAPI • Gemini AI • RAG**
 
-💧 JalAlert
+Provides contextual navigation, accessibility support, and venue guidance.
 
-Responsive civic platform for real-time reporting of water, sanitation, and infrastructure issues. Qualified for the final round of an Ideathon.
+### 🌱 CarbonBuddy
 
-🏆 Achievements
+Full-stack carbon footprint tracking platform built with:
 
-Independently designed and developed five end-to-end software prototypes across AI, geospatial analytics, civic technology, and sustainability.
+**React • Spring Boot • JWT**
 
-Public GitHub repositories showcasing practical software engineering projects.
+Includes analytics dashboards, CO₂ insights, and sustainability recommendations.
 
-Open to relocation for internship opportunities across India.
+### 🏛️ FixMyNation
 
-📜 Certifications
+Civic grievance platform built with:
 
-Cisco Networking Academy – Python & C Programming
+**React • TypeScript • Tailwind CSS • FastAPI • Node.js**
 
-Microsoft Technical Workshops
+Designed for reporting, tracking, and managing public infrastructure issues.
 
-📫 Connect with Me
+### 💧 JalAlert
 
-📧 Email: voddepellinihal@gmail.com
+Responsive civic platform for real-time reporting of water, sanitation, and infrastructure issues.
 
-💻 GitHub: voddepellinihal-a11y
+🏆 Qualified for the final round of an Ideathon.
 
-🔗 LinkedIn: Nihal Voddepelli
+---
+
+## 📊 GitHub Stats
+
+![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=voddepellinihal-a11y&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voddepellinihal-a11y&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+
+- Independently designed and developed five end-to-end software prototypes across AI, geospatial analytics, civic technology, and sustainability.
+- Public GitHub repositories showcasing practical software engineering projects.
+- Open to relocation for internship opportunities across India.
+
+---
+
+## 📜 Certifications
+
+- Cisco Networking Academy – Python & C Programming
+- Microsoft Technical Workshops
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [voddepellinihal@gmail.com](mailto:voddepellinihal@gmail.com)
+
+💻 **GitHub:** [voddepellinihal-a11y](https://github.com/voddepellinihal-a11y)
+
+🔗 **LinkedIn:** [Nihal Voddepelli](https://linkedin.com/in/nihal-voddepelli-6b79b2342)
+
+---
 
 ⭐ Thanks for visiting my profile!
