@@ -10,72 +10,43 @@
 
 🛠️ Skills & Tools
 
-Programming
-
+Programming : -
 Java
-
 Python
-
 JavaScript
-
 TypeScript
-
 HTML5
-
 CSS3
-
 SQL (Basic)
 
-Frontend
-
+Frontend :-
 React
-
 Next.js
-
 Vite
-
 Tailwind CSS
 
-Backend & APIs
-
+Backend & APIs :-
 FastAPI
-
 Spring Boot
-
 Node.js
 
-REST APIs
-
-GIS & Visualization
-
+GIS & Visualization :-
 GeoPandas
-
 Leaflet
-
 Recharts
 
-Developer Tools
-
+Developer Tools :-
 Git
-
 GitHub
-
 VS Code
-
 ngrok
-
 Pydantic
 
-AI Developer Tools
-
+AI Developer Tools :-
 ChatGPT
-
 Gemini
-
 DeepSeek
-
 Perplexity
-
 OpenCode
 
 🚀 Featured Projects
