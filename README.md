@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/JAVA-ED8B00%20)
+
 👋 Hi there, I'm Nihal!
 
 💻 Computer Science student & Full Stack Developer
