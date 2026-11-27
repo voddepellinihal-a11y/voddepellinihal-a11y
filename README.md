@@ -21,28 +21,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗺️ GIS & Visualization
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
-
-### 🔧 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 
 ## 🚀 Featured Projects
 
@@ -60,32 +39,6 @@ Multilingual GenAI-powered FIFA World Cup assistant built with:
 
 **Next.js • FastAPI • Gemini AI • RAG**
 
-Provides contextual navigation, accessibility support, and venue guidance.
-
-### 🌱 CarbonBuddy
-
-Full-stack carbon footprint tracking platform built with:
-
-**React • Spring Boot • JWT**
-
-Includes analytics dashboards, CO₂ insights, and sustainability recommendations.
-
-### 🏛️ FixMyNation
-
-Civic grievance platform built with:
-
-**React • TypeScript • Tailwind CSS • FastAPI • Node.js**
-
-Designed for reporting, tracking, and managing public infrastructure issues.
-
-### 💧 JalAlert
-
-Responsive civic platform for real-time reporting of water, sanitation, and infrastructure issues.
-
-🏆 Qualified for the final round of an Ideathon.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -93,13 +46,6 @@ Responsive civic platform for real-time reporting of water, sanitation, and infr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voddepellinihal-a11y&layout=compact&theme=radical" alt="Nihal's Top Languages" />
 </p>
 
-## 🏆 Achievements
-
-- Independently designed and developed five end-to-end software prototypes across AI, geospatial analytics, civic technology, and sustainability.
-- Public GitHub repositories showcasing practical software engineering projects.
-- Open to relocation for internship opportunities across India.
-
----
 
 ## 📜 Certifications
 
@@ -116,6 +62,3 @@ Responsive civic platform for real-time reporting of water, sanitation, and infr
 
 🔗 **LinkedIn:** [Nihal Voddepelli](https://linkedin.com/in/nihal-voddepelli-6b79b2342)
 
----
-
-⭐ Thanks for visiting my profile!
