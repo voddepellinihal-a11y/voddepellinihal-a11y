@@ -1,18 +1,18 @@
-# 👋 Hi there, I'm Nihal!
+#  Hi there, I'm Nihal!
 
-### 💻 Computer Science Student & Full Stack Developer
+###  Computer Science Student & Full Stack Developer
 
-🤖 AI enthusiast passionate about building practical, real-world software.
+ AI enthusiast passionate about building practical, real-world software.
 
-🌱 Currently working with **React, TypeScript, FastAPI, Spring Boot, Python, and Java**.
+ Currently working with **React, TypeScript, FastAPI, Spring Boot, Python, and Java**.
 
-💡 Built five end-to-end software prototypes across **AI, geospatial analytics, civic technology, and sustainability**.
+ Built five end-to-end software prototypes across **AI, geospatial analytics, civic technology, and sustainability**.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming
+###  Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,9 +23,9 @@
 
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌍 GeoPilot AI
+###  GeoPilot AI
 
 AI-powered geospatial disaster response platform built with:
 
@@ -33,13 +33,13 @@ AI-powered geospatial disaster response platform built with:
 
 Includes GIS dashboards, route analysis, and REST APIs for emergency planning.
 
-### 🏟️ Stadium Copilot
+###  Stadium Copilot
 
 Multilingual GenAI-powered FIFA World Cup assistant built with:
 
 **Next.js • FastAPI • Gemini AI • RAG**
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=voddepellinihal-a11y&show_icons=true&theme=radical" alt="Nihal's GitHub Stats" />
@@ -47,18 +47,7 @@ Multilingual GenAI-powered FIFA World Cup assistant built with:
 </p>
 
 
-## 📜 Certifications
+##  Connect With Me
 
-- Cisco Networking Academy – Python & C Programming
-- Microsoft Technical Workshops
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [voddepellinihal@gmail.com](mailto:voddepellinihal@gmail.com)
-
-💻 **GitHub:** [voddepellinihal-a11y](https://github.com/voddepellinihal-a11y)
-
-🔗 **LinkedIn:** [Nihal Voddepelli](https://linkedin.com/in/nihal-voddepelli-6b79b2342)
+**Email:** [voddepellinihal@gmail.com](mailto:voddepellinihal@gmail.com)
 
